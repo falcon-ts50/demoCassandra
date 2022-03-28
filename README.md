@@ -1,2 +1,2 @@
-# repository-template
-Template repository for all projects.
+# repository-cassandra
+Cassandra speed test with spring boot.
